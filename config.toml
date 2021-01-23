@@ -92,7 +92,7 @@ google_analytics_id = "" # your id
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+preloader = "images/lemon1.png" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]
@@ -111,4 +111,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright 2021. Made by blogdown. A Hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright 2021. Made with blogdown & Hugo. Theme by [somrat](https://somrat.netlify.com)"
