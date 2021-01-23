@@ -9,7 +9,7 @@ hero:
 
   # slider background image loop
   slider_image:
-    - "images/cover1.png"
+    - "images/cover2.png"
     - "images/lemon2.png"
     - "images/lemon1.png"
 
@@ -32,7 +32,7 @@ about:
   enable : true
   image : "images/mm.png"
   title : "Matt Malishev"
-  content : "I don't take holidays because my life is a trip. The confort zone is where dreams go to die."
+  content : "I don't take holidays because my life is a trip. The comfort zone is where dreams go to die."
   # button
   button:
     enable : true
@@ -44,23 +44,31 @@ experience:
   enable : true
   title : "How it's going"
   experience_list:
-    # experience item loop
-    - name : "Writing, writing, writing"
-      company : "Atlanta, USA | Melbourne, Australia"
-      duration : "2018–"
-      content : "Writing new drafts, scrapping old material, streamlining older drafts"
+      # experience item loop
+    - name : "Draft #2"
+      company : "Atlanta, USA & Melbourne, Australia"
+      duration : "2020"
+      content : "Picked up the project again. Scrapped old material and began writing new stories"
       
-    # experience item loop
+    - name : "Break"
+      company : "Atlanta, USA"
+      duration : "2019"
+      content : "Took a break from the project to focus on work and life"
+      
+    - name : "Writing"
+      company : "Atlanta, USA"
+      duration : "2018"
+      content : "Writing more drafts, scrapping and streamlining older material, begun marketing phase"
+
+    - name : "Draft #1"
+      company : "Medellin, Colombia"
+      duration : "2017"
+      content : "Began compiling stories, writing drafts, and organising book layout and content"
+      
     - name : "Concept"
       company : "Medellin, Colombia"
       duration : "2017"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
-      
-    # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+      content : "Searching for an outlet for a lot of material on life experiences and hilarious anecdotes I had been stockpiling over the years. Came up with this book idea. Surround yourself with encouraging people, they help push you. "
 
 
 ############################### Skill #################################
@@ -164,28 +172,28 @@ portfolio:
   title : "Follow me on Instagram @thequarterlifehack" 
   portfolio_list:
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/review_gallery_thumbnail_large/public/screenshots/csm-movie/pom-poko1.jpg?itok=rqLyMSZn
-      date : "Feb 2018"
-      category : "Category B"
+    - name : "Cover"
+      image : "images/cover2.png"
+      date : "2021"
+      category : ""
 
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item2.jpg"
-      date : "Feb 2018"
+    - name : "Making <br> lemonade"
+      image : https://instagram.fmel8-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/141392645_717005668956227_5264783975307399278_n.jpg?_nc_ht=instagram.fmel8-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=QF9ASEPcHYEAX9WnFQm&tp=1&oh=aabf6ac6fe588745dd8b5564b2f5e84c&oe=60348842
+      date : "Lemonade"
       category : "Category B"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item3.jpg"
-      date : "Feb 2018"
+    - name : "Lemon"
+      image : "images/lemon1.png"
+      date : "QLH"
       category : "Category C"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item4.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    - name : "Quarter <br> Life <br> Hack"
+      image : "images/lemon2.png"
+      date : "2021"
+      category : ""
       
     # portfolio item loop
     - name : "Project <br> Title"

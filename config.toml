@@ -53,34 +53,29 @@ URL = "#home"
 weight = 1
 
 [[menu.main]]
-name = "About me"
-URL = "#about"
+name = "Content"
+URL = "#service"
 weight = 2
 
 [[menu.main]]
-name = "Service"
-URL = "#service"
+name = "Meet the author"
+URL = "#about"
 weight = 3
 
 [[menu.main]]
-name = "Portfolio"
+name = "Media"
 URL = "#portfolio"
 weight = 4
 
 [[menu.main]]
-name = "Testimonial"
-URL = "#testimonial"
-weight = 5
-
-[[menu.main]]
 name = "Contact"
 URL = "#contact"
-weight = 6
+weight = 5
 
 #################### default parameters ################################
 [params]
 logo_light = "images/logo.png"
-logo_dark = "images/logo-dark.png"
+logo_dark = "images/lemon1.png"
 # Meta data
 description = "The Quarter Life Hack book"
 author = "Matt Malishev"
