@@ -173,10 +173,10 @@
 	function toggleLogoImg(id) {
     	var img = document.getElementById(id).src;
         if (img.indexOf('dark.png')!=-1) {
-            document.getElementById(id).src  = "https://www.qonsulter.de/images/logo-light.png";
+            document.getElementById(id).src  = "https://github.com/darwinanddavis/quarterlifehack/raw/master/static/images/logo2.png";
         }
          else {
-           document.getElementById(id).src = "https://www.qonsulter.de/images/logo-dark.png";
+           document.getElementById(id).src = "https://github.com/darwinanddavis/quarterlifehack/raw/master/static/images/logo2.png";
        }
 
     }

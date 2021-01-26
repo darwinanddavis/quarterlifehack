@@ -174,7 +174,7 @@ call_to_action:
 ############################# portfolio ################################
 portfolio:
   enable : true
-  title : "Instagram | @thequarterlifehack" 
+  title : "@thequarterlifehack" 
   portfolio_list:
     # portfolio item loop
     - name : "Cover"
