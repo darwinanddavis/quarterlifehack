@@ -74,7 +74,7 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo_light = "images/logo.png"
+logo_light = "images/logo2.png"
 logo_dark = "images/lemon1.png"
 # Meta data
 description = "The Quarter Life Hack book"
@@ -87,7 +87,7 @@ google_analytics_id = "" # your id
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/lemon1.png" # use jpg, png, svg or gif format.
+preloader = "images/logo2.png" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]

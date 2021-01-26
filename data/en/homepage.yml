@@ -9,7 +9,7 @@ hero:
 
   # slider background image loop
   slider_image:
-    - "images/cover2.png"
+    - "images/cover/cover2.png"
     - "images/lemon2.png"
     - "images/lemon1.png"
 
@@ -32,12 +32,12 @@ about:
   enable : true
   image : "images/mm.png"
   title : "Matt Malishev"
-  content : "I don't take holidays because my life is a trip. The comfort zone is where dreams go to die."
+  content : "I don't take holidays because life is a trip. The comfort zone is where dreams go to die."
   # button
   button:
     enable : true
     label : "Meet the author"
-    link : "press/logo.png" # you can put your cv in static folder and give the path here.
+    link : "images/logo2.png" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
@@ -45,6 +45,11 @@ experience:
   title : "How it's going"
   experience_list:
       # experience item loop
+    - name : "Finalise full draft"
+      company : "Melbourne, Australia"
+      duration : "2021"
+      content : "Finalising full draft and stories to include. Creating graphics for marketing. Sourcing publisher."  
+      
     - name : "Draft #2"
       company : "Atlanta, USA & Melbourne, Australia"
       duration : "2020"
@@ -169,43 +174,43 @@ call_to_action:
 ############################# portfolio ################################
 portfolio:
   enable : true
-  title : "Follow me on Instagram @thequarterlifehack" 
+  title : "Instagram | @thequarterlifehack" 
   portfolio_list:
     # portfolio item loop
     - name : "Cover"
-      image : "images/cover2.png"
+      image : "images/logo2.png"
       date : "2021"
-      category : ""
+      category : "Posts"
 
-    # portfolio item loop
-    - name : "Making <br> lemonade"
-      image : https://instagram.fmel8-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/141392645_717005668956227_5264783975307399278_n.jpg?_nc_ht=instagram.fmel8-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=QF9ASEPcHYEAX9WnFQm&tp=1&oh=aabf6ac6fe588745dd8b5564b2f5e84c&oe=60348842
-      date : "Lemonade"
-      category : "Category B"
-      
-    # portfolio item loop
-    - name : "Lemon"
-      image : "images/lemon1.png"
-      date : "QLH"
-      category : "Category C"
-      
     # portfolio item loop
     - name : "Quarter <br> Life <br> Hack"
       image : "images/lemon2.png"
+      date : "Lemonade"
+      category : "Posts"
+      
+    # portfolio item loop
+    - name : "Quarter <br> Life <br> Hack"
+      image : "images/lemon1.png"
+      date : "QLH"
+      category : "Posts"
+      
+    # portfolio item loop
+    - name : "Quarter <br> Life <br> Hack"
+      image : "images/cover/cover1.png"
       date : "2021"
-      category : ""
+      category : "Posts"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item5.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    - name : "Quarter <br> Life <br> Hack"
+      image : "images/cover/cover4.png"
+      date : "2021"
+      category : "Posts"
       
     # portfolio item loop
-    - name : "Project <br> Title"
-      image : "images/portfolio/item6.jpg"
-      date : "Feb 2018"
-      category : "Web Development"
+    - name : "Quarter <br> Life <br> Hack"
+      image : "images/cover/cover2.png"
+      date : "2021"
+      category : "Posts"
       
 
 ################################# Testimonial #########################33
