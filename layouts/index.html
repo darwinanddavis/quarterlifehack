@@ -367,10 +367,10 @@
         <h1 class="wow fadeInUp" data-wow-duration="1.5s">{{ .title }}</h1>
         <div class="filtering wow fadeInUp" data-wow-duration="1.5s">
           <ul class="portfolio-navigation">
-            <li data-filter="all" class="hvr-sweep-to-right active">All Items</li>
+<!--             <li data-filter="all" class="hvr-sweep-to-right active">All Items</li> -->
             {{ $categories := slice }}
             {{ range .portfolio_list }}
-            {{ $categories = $categories | append .category }}
+            {{ $categories = $categories}}
             {{ end }}
             {{ range ( $categories | uniq ) }}
             <li data-filter="{{ . | urlize }}" class="hvr-sweep-to-right">{{ . | humanize }}</li>

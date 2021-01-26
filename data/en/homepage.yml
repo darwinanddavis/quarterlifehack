@@ -177,40 +177,40 @@ portfolio:
   title : "@thequarterlifehack" 
   portfolio_list:
     # portfolio item loop
-    - name : "Cover"
+    - name : "Quarter <br> Life <br> Hack"
       image : "images/logo2.png"
       date : "2021"
-      category : "Posts"
+      category : "Matt Malishev"
 
     # portfolio item loop
     - name : "Quarter <br> Life <br> Hack"
       image : "images/lemon2.png"
-      date : "Lemonade"
-      category : "Posts"
+      date : "2021"
+      category : "Matt Malishev"
       
     # portfolio item loop
     - name : "Quarter <br> Life <br> Hack"
       image : "images/lemon1.png"
-      date : "QLH"
-      category : "Posts"
+      date : "2021"
+      category : "Matt Malishev"
       
     # portfolio item loop
-    - name : "Quarter <br> Life <br> Hack"
+    - name : "Cover"
       image : "images/cover/cover1.png"
       date : "2021"
-      category : "Posts"
+      category : "Matt Malishev"
       
     # portfolio item loop
     - name : "Quarter <br> Life <br> Hack"
       image : "images/cover/cover4.png"
       date : "2021"
-      category : "Posts"
+      category : "Matt Malishev"
       
     # portfolio item loop
     - name : "Quarter <br> Life <br> Hack"
       image : "images/cover/cover2.png"
       date : "2021"
-      category : "Posts"
+      category : "Matt Malishev"
       
 
 ################################# Testimonial #########################33
