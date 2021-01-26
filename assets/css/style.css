@@ -1718,7 +1718,7 @@ input.form-control::-webkit-input-placeholder,
 textarea.form-control::-webkit-input-placeholder,
 .submit {
   font-weight: 700;
-  font-size: 16px;
+  font-size: 56px;
   color: #313131;
 }
 
