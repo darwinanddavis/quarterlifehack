@@ -75,7 +75,7 @@ weight = 5
 #################### default parameters ################################
 [params]
 logo_light = "images/logo2.png"
-logo_dark = "images/lemon1.png"
+logo_dark = "images/logo2.png"
 # Meta data
 description = "The Quarter Life Hack book"
 author = "Matt Malishev"
@@ -106,4 +106,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright 2021. Made with blogdown & Hugo. Theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright 2021. Made with blogdown & Hugo. Theme by [somrat](https://somrat.netlify.com)."

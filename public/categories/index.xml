@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Quarter Life Hack</title>
-    <link>/categories/</link>
+    <link>https://quarterlifehack.netlify.app/categories/</link>
     <description>Recent content in Categories on Quarter Life Hack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright 2021. Made with blogdown &amp; Hugo. Theme by [somrat](https://somrat.netlify.com)</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright 2021. Made with blogdown &amp; Hugo. Theme by [somrat](https://somrat.netlify.com).</copyright><atom:link href="https://quarterlifehack.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -449,10 +449,12 @@ input:checked + label span:last-child {
 }
 
 .occupation {
-  font-size: 18px;
+  font-size: 12px;
   font-weight: 400;
   height: 30px;
-  overflow: hidden;
+  overflow: auto;
+  /*add new*/
+  white-space: pre-wrap;
 }
 
 .occupation span {
@@ -461,10 +463,12 @@ input:checked + label span:last-child {
   position: relative;
   white-space: nowrap;
   text-transform: uppercase;
-  font-size: 22px;
+  font-size: 15px;
   text-align: center;
   top: 0;
   left: 0;
+  /*add new*/
+  white-space: pre-wrap;
   -webkit-animation: move 4s;
   -webkit-animation-iteration-count: infinite;
   -webkit-animation-delay: 1s;
@@ -521,6 +525,8 @@ input:checked + label span:last-child {
   font-size: 20px;
   font-weight: 500;
   text-decoration: none;
+  /*add new*/
+  white-space: pre-wrap; 
 }
 
 .full-nav-icon-holder {
@@ -1311,12 +1317,14 @@ ul.experience-chart h4 {
 
 .portfolio {
   background: #fff;
-  padding: 70px 0px;
+  padding: 5px;
 }
 
 .portfolio h1 {
   color: #6f6f6f;
   text-align: center;
+  /*add new*/
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 4px;
   position: relative;
@@ -1874,7 +1882,9 @@ textarea.form-control::-webkit-input-placeholder,
     margin: 0;
   }
   .occupation {
-    font-size: 15px;
+    font-size: 12px;
+    /*add new*/
+    white-space: pre-wrap;
   }
   .fulscreen-nav {
     margin-top: 25px;
@@ -1893,7 +1903,9 @@ textarea.form-control::-webkit-input-placeholder,
     margin: 0;
   }
   .occupation {
-    font-size: 15px;
+    font-size: 12px;
+    /*add new*/
+    white-space: pre-wrap;
   }
   .name {
     text-align: left;
@@ -1950,7 +1962,9 @@ textarea.form-control::-webkit-input-placeholder,
     margin-bottom: 28px;
   }
   .occupation {
-    font-size: 14px;
+    font-size: 12px;
+    /*add new*/
+    white-space: pre-wrap;
   }
   .fullscreen-nav {
     margin-top: 35px;
